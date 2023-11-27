@@ -1,0 +1,3 @@
+pulumi-aws/__pycache__/
+pulumi-aws/venv/
+terraform-aws/.terraform/
